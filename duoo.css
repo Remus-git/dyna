@@ -1,0 +1,95 @@
+.head{
+    background-color: rgb(255, 255, 255);
+    height: 170px;;
+}
+.logo{
+    font-size: 4rem;
+    font-weight: bolder;
+    padding-left:70px;
+   
+}
+.logosc{
+    font-size: 4rem;
+    color:rgb(104, 104, 104);
+    font-weight: bold;
+    font-family: monospace;
+    padding-left:70px;
+    font-style: italic;
+}
+.catergories{
+    padding-top: 120px;
+}
+.catergories a{
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    padding-left: 180px;
+    font-weight: bold;
+}
+.backgroundblock{
+    background-color: #fdda3f;
+    width: 100%;
+    height: 1200px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;    
+}
+.txtinblock{
+    text-align: center;
+    font-size: 7rem;
+    border: 10px;border-style: solid;border-color: aliceblue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.horizontalrule{
+    border: 5px;
+    border-style: solid;
+    border-color: white;
+}
+.sideblock{
+    background-color: #d8d8d8;
+    width: 100%;
+    height: 1200px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;    
+}
+.secbgimg img{
+    width: 100%;
+    align-items: center;
+    
+}
+.promo{
+    text-align: center;
+    font-size: 5rem;
+    color: #ffffff;
+}
+.firstbgimg img{
+    width: 100%;
+    align-items: center;
+}
+.scrolldown{
+    text-align: center;
+}
+.thrblock{
+    background-color: #d8d8d8;
+    width: auto;
+    height: 1000px;
+    padding-right: 100px;
+    padding-left: 17px;
+    padding-top: 100px;
+}
+.thrbgimg img{
+    width: 1000px;
+    align-items: center;
+}
+.secpromo{
+    text-align: center;
+    font-size: 4rem;
+    color: #000000;
+}
+.homeend{
+    text-align: center;
+    font-family: monospace;
+    padding-top: 100px;
+}
